@@ -1,0 +1,7 @@
+Se utilizaron:
+
+mysql worbench 8.0 para la creación de la base de datos
+
+sublime text 3 para la creación del código del formulario
+
+El paquete xampp para la gestión de bases de datos y localhost
